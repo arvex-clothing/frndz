@@ -1,5 +1,5 @@
 // ✿ PERSONALIZE THIS LITTLE UNIVERSE ✿
-const FRIEND_NAME = "Dumboooooooo"; // Change this to her nickname.
+const FRIEND_NAME = "Faaarooooo"; // Change this to her nickname.
 document.getElementById("friendName").textContent = FRIEND_NAME;
 
 const screens = [...document.querySelectorAll(".screen")];
